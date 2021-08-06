@@ -1,0 +1,12 @@
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\bin\Debug\net5.0\RedeSocialCore.deps.json
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\bin\Debug\net5.0\RedeSocialCore.dll
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\bin\Debug\net5.0\ref\RedeSocialCore.dll
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\bin\Debug\net5.0\RedeSocialCore.pdb
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\obj\Debug\net5.0\RedeSocialCore.csprojAssemblyReference.cache
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\obj\Debug\net5.0\RedeSocialCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\obj\Debug\net5.0\RedeSocialCore.AssemblyInfoInputs.cache
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\obj\Debug\net5.0\RedeSocialCore.AssemblyInfo.cs
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\obj\Debug\net5.0\RedeSocialCore.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\obj\Debug\net5.0\RedeSocialCore.dll
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\obj\Debug\net5.0\ref\RedeSocialCore.dll
+C:\Users\Vitor Infnet\source\repos\RedeSocialApi\RedeSocialCore\obj\Debug\net5.0\RedeSocialCore.pdb

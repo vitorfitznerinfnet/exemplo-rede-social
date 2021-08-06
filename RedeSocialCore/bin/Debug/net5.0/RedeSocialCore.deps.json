@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RedeSocialCore/1.0.0": {
+        "runtime": {
+          "RedeSocialCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RedeSocialCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
